@@ -1,0 +1,18 @@
+Distance:
+8413
+
+Matrix:
+-4 -3 -2  4  3  2
+ 3  4  1 -3 -4 -1
+-2  1  4  2 -1 -4
+ 1 -2 -3 -1  2  3
+
+Schedule:
+| ATL   | NYM   | PHI   | MON   |
+|:------|:------|:------|:------|
+| @MON  | PHI   | @NYM  | ATL   |
+| @PHI  | MON   | ATL   | @NYM  |
+| @NYM  | ATL   | MON   | @PHI  |
+| MON   | @PHI  | NYM   | @ATL  |
+| PHI   | @MON  | @ATL  | NYM   |
+| NYM   | @ATL  | @MON  | PHI   |

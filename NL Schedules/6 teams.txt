@@ -1,0 +1,24 @@
+Distance:
+26795
+
+Matrix:
+-5  3  2  4 -6  5 -3 -2 -4  6
+-6  4 -1 -5 -3  6 -4  1  5  3
+ 4 -1 -5  6  2 -4  1  5 -6 -2
+-3 -2  6 -1 -5  3  2 -6  1  5
+ 1 -6  3  2  4 -1  6 -3 -2 -4
+ 2  5 -4 -3  1 -2 -5  4  3 -1
+
+Schedule:
+| ATL   | NYM   | PHI   | MON   | FLA   | PIT   |
+|:------|:------|:------|:------|:------|:------|
+| @FLA  | @PIT  | MON   | @PHI  | ATL   | NYM   |
+| PHI   | MON   | @ATL  | @NYM  | @PIT  | FLA   |
+| NYM   | @ATL  | @FLA  | PIT   | PHI   | @MON  |
+| MON   | @FLA  | PIT   | @ATL  | NYM   | @PHI  |
+| @PIT  | @PHI  | NYM   | @FLA  | MON   | ATL   |
+| FLA   | PIT   | @MON  | PHI   | @ATL  | @NYM  |
+| @PHI  | @MON  | ATL   | NYM   | PIT   | @FLA  |
+| @NYM  | ATL   | FLA   | @PIT  | @PHI  | MON   |
+| @MON  | FLA   | @PIT  | ATL   | @NYM  | PHI   |
+| PIT   | PHI   | @NYM  | FLA   | @MON  | @ATL  |

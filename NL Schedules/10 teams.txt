@@ -1,0 +1,36 @@
+Distance:
+91332
+
+Matrix:
+  6  -7 10 -4  5   2   3 -9   8 -6  7 -10   4  -5 -2 -3   9 -8
+-10   4  7 -9  8  -1   6  5  -3 10 -4  -7   9  -8  1 -6  -5  3
+  8  -9  6 -5  7 -10  -1  4   2 -8  9  -6   5  -7 10  1  -4 -2
+ -5  -2  9  1  6  -8 -10 -3   7  5  2  -9  -1  -6  8 10   3 -7
+  4  -6  8  3 -1   9   7 -2 -10 -4  6  -8  -3   1 -9 -7   2 10
+ -1   5 -3 -8 -4   7  -2 10   9  1 -5   3   8   4 -7  2 -10 -9
+ -9   1 -2 10 -3  -6  -5  8  -4  9 -1   2 -10   3  6  5  -8  4
+ -3 -10 -5  6 -2   4  -9 -7  -1  3 10   5  -6   2 -4  9   7  1
+  7   3 -4  2 10  -5   8  1  -6 -7 -3   4  -2 -10  5 -8  -1  6
+  2   8 -1 -7 -9   3   4 -6   5 -2 -8   1   7   9 -3 -4   6 -5
+
+Schedule:
+| ATL   | NYM   | PHI   | MON   | FLA   | PIT   | CIN   | CHI   | STL   | MIL   |
+|:------|:------|:------|:------|:------|:------|:------|:------|:------|:------|
+| PIT   | @MIL  | CHI   | @FLA  | MON   | @ATL  | @STL  | @PHI  | CIN   | NYM   |
+| @CIN  | MON   | @STL  | @NYM  | @PIT  | FLA   | ATL   | @MIL  | PHI   | CHI   |
+| MIL   | CIN   | PIT   | STL   | CHI   | @PHI  | @NYM  | @FLA  | @MON  | @ATL  |
+| @MON  | @STL  | @FLA  | ATL   | PHI   | @CHI  | MIL   | PIT   | NYM   | @CIN  |
+| FLA   | CHI   | CIN   | PIT   | @ATL  | @MON  | @PHI  | @NYM  | MIL   | @STL  |
+| NYM   | @ATL  | @MIL  | @CHI  | STL   | CIN   | @PIT  | MON   | @FLA  | PHI   |
+| PHI   | PIT   | @ATL  | @MIL  | CIN   | @NYM  | @FLA  | @STL  | CHI   | MON   |
+| @STL  | FLA   | MON   | @PHI  | @NYM  | MIL   | CHI   | @CIN  | ATL   | @PIT  |
+| CHI   | @PHI  | NYM   | CIN   | @MIL  | STL   | @MON  | @ATL  | @PIT  | FLA   |
+| @PIT  | MIL   | @CHI  | FLA   | @MON  | ATL   | STL   | PHI   | @CIN  | @NYM  |
+| CIN   | @MON  | STL   | NYM   | PIT   | @FLA  | @ATL  | MIL   | @PHI  | @CHI  |
+| @MIL  | @CIN  | @PIT  | @STL  | @CHI  | PHI   | NYM   | FLA   | MON   | ATL   |
+| MON   | STL   | FLA   | @ATL  | @PHI  | CHI   | @MIL  | @PIT  | @NYM  | CIN   |
+| @FLA  | @CHI  | @CIN  | @PIT  | ATL   | MON   | PHI   | NYM   | @MIL  | STL   |
+| @NYM  | ATL   | MIL   | CHI   | @STL  | @CIN  | PIT   | @MON  | FLA   | @PHI  |
+| @PHI  | @PIT  | ATL   | MIL   | @CIN  | NYM   | FLA   | STL   | @CHI  | @MON  |
+| STL   | @FLA  | @MON  | PHI   | NYM   | @MIL  | @CHI  | CIN   | @ATL  | PIT   |
+| @CHI  | PHI   | @NYM  | @CIN  | MIL   | @STL  | MON   | ATL   | PIT   | @FLA  |

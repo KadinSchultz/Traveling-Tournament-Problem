@@ -1,0 +1,30 @@
+Distance:
+47283
+
+Matrix:
+ 7  5 -4 -3 -2  6  8 -7 -5  4  3  2 -6 -8
+-5 -8 -7  4  1  3 -6  5  8  7 -4 -1 -3  6
+-6 -7  5  1  8 -2 -4  6  7 -5 -1 -8  2  4
+ 8  6  1 -2 -5 -7  3 -8 -6 -1  2  5  7 -3
+ 2 -1 -3 -6  4  8  7 -2  1  3  6 -4 -8 -7
+ 3 -4 -8  5 -7 -1  2 -3  4  8 -5  7  1 -2
+-1  3  2 -8  6  4 -5  1 -3 -2  8 -6 -4  5
+-4  2  6  7 -3 -5 -1  4 -2 -6 -7  3  5  1
+
+Schedule:
+| ATL   | NYM   | PHI   | MON   | FLA   | PIT   | CIN   | CHI   |
+|:------|:------|:------|:------|:------|:------|:------|:------|
+| CIN   | @FLA  | @PIT  | CHI   | NYM   | PHI   | @ATL  | @MON  |
+| FLA   | @CHI  | @CIN  | PIT   | @ATL  | @MON  | PHI   | NYM   |
+| @MON  | @CIN  | FLA   | ATL   | @PHI  | @CHI  | NYM   | PIT   |
+| @PHI  | MON   | ATL   | @NYM  | @PIT  | FLA   | @CHI  | CIN   |
+| @NYM  | ATL   | CHI   | @FLA  | MON   | @CIN  | PIT   | @PHI  |
+| PIT   | PHI   | @NYM  | @CIN  | CHI   | @ATL  | MON   | @FLA  |
+| CHI   | @PIT  | @MON  | PHI   | CIN   | NYM   | @FLA  | @ATL  |
+| @CIN  | FLA   | PIT   | @CHI  | @NYM  | @PHI  | ATL   | MON   |
+| @FLA  | CHI   | CIN   | @PIT  | ATL   | MON   | @PHI  | @NYM  |
+| MON   | CIN   | @FLA  | @ATL  | PHI   | CHI   | @NYM  | @PIT  |
+| PHI   | @MON  | @ATL  | NYM   | PIT   | @FLA  | CHI   | @CIN  |
+| NYM   | @ATL  | @CHI  | FLA   | @MON  | CIN   | @PIT  | PHI   |
+| @PIT  | @PHI  | NYM   | CIN   | @CHI  | ATL   | @MON  | FLA   |
+| @CHI  | PIT   | MON   | @PHI  | @CIN  | @NYM  | FLA   | ATL   |
